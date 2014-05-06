@@ -1,6 +1,6 @@
 
 # &lt;disqus-thread&gt;
-> Custom Element for [Gravatar](http://en.gravatar.com) without Polymer.
+> Custom element for [Disqus](http://disqus.com/).
 
 ## Demo
 
