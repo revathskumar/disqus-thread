@@ -17,7 +17,7 @@
 2. Import Custom Element:
 
     ```html
-    <link rel="import" href="bower_components/disqus-thread.html">
+    <link rel="import" href="bower_components/disqus-thread/disqus-thread.html">
     ```
 
 4. Start using it!
