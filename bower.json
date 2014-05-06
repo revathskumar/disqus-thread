@@ -1,0 +1,22 @@
+{
+  "name": "disqus-thread-demo",
+  "version": "0.0.1",
+  "homepage": "https://github.com/revathskumar/disqus-thread",
+  "authors": [
+    "Revath S Kumar <rsk@revathskumar.com>"
+  ],
+  "description": "Demo of disqus custom element",
+  "main": "index.html",
+  "keywords": [
+    "demo"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
